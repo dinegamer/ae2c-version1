@@ -1,0 +1,9 @@
+/* index.css ou App.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* index.css or App.css */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/* Ajoutez vos styles personnalisés ici */
